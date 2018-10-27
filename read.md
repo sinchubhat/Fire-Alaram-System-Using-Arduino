@@ -1,0 +1,1 @@
+It is an Arduino based mini project.whenever the fire is detected by flame sensor or co2 detector,it sends message with location to owner saying there is fire accident ,rush immediately with location which can be seen on google maps .it also uses relay to trip power supply of the house to prevent more loss.alarm also rings to alert people near by.
